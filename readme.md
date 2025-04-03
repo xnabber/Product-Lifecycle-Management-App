@@ -1,5 +1,21 @@
 # Product Lifecycle Management (PLM) Application
 
+## Photos
+# The site when a normal user is logged in
+![Picture1](Photos/Picture1.png)
+# The site when an admin user is logged in
+![Picture2](Photos/Picture2.png)
+# Dashboard containing statistics
+![Picture3](Photos/Picture3.png)
+# Products page
+![Picture4](Photos/Picture4.png)
+# Modal for BOM
+![Picture5](Photos/Picture5.png)
+# Reports page
+![Picture6](Photos/Picture6.png)
+# Report PDF example
+![Picture7](Photos/Picture7.png)
+
 This application manages the lifecycle of products in a company, handling their various stages and related data. It includes both backend (C# with Entity Framework Core) and frontend (Angular) components, with database management and user role assignments.
 
 ## Project Overview
